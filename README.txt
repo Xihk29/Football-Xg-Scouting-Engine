@@ -41,7 +41,6 @@ An end-to-end Football Analytics and Player Scouting web application built with 
 
 ## 📂 Project Structure
 
-```text
 ├── 📓 01_extracao_dados_e_modelo_xg.ipynb   # xG Model Training Notebook
 ├── 📓 02_scouting_player_similarity.ipynb  # Cosine Similarity Notebook
 ├── 📦 xg_model.pkl                         # Trained ML Model
